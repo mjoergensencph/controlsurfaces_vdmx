@@ -1,0 +1,2996 @@
+{
+  "classArray" : [
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Slider",
+    "Slider",
+    "Slider",
+    "Slider",
+    "Slider",
+    "Slider",
+    "Slider",
+    "Slider",
+    "Slider",
+    "Slider",
+    "Button",
+    "Slider",
+    "Slider",
+    "Slider",
+    "Slider",
+    "Slider",
+    "Slider",
+    "Slider",
+    "Slider",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Slider",
+    "Slider",
+    "Slider",
+    "Slider",
+    "Slider",
+    "Slider",
+    "Slider",
+    "Slider",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Button",
+    "Slider"
+  ],
+  "keyArray" : [
+    "CLIP_LAUNCH",
+    "A1",
+    "A2",
+    "A3",
+    "A4",
+    "A5",
+    "A6",
+    "A7",
+    "A8",
+    "B1",
+    "B2",
+    "B3",
+    "B4",
+    "B5",
+    "B6",
+    "B7",
+    "B8",
+    "C1",
+    "C2",
+    "C3",
+    "C4",
+    "C5",
+    "C6",
+    "C7",
+    "C8",
+    "D1",
+    "D2",
+    "D3",
+    "D4",
+    "D5",
+    "D6",
+    "D7",
+    "D8",
+    "E1",
+    "E2",
+    "E3",
+    "E4",
+    "E5",
+    "E6",
+    "E7",
+    "E8",
+    "SL_A",
+    "SL_B",
+    "SL_C",
+    "SL_D",
+    "SL_E",
+    "CL_1",
+    "CL_2",
+    "CL_3",
+    "CL_4",
+    "CL_5",
+    "CL_6",
+    "CL_7",
+    "CL_8",
+    "STOP_ALL",
+    "TRACK_SELECTION",
+    "TS_1",
+    "TS_2",
+    "TS_3",
+    "TS_4",
+    "TS_5",
+    "TS_6",
+    "TS_7",
+    "TS_8",
+    "MASTER",
+    "ACTIVATOR",
+    "SOLO_CUE",
+    "RECORD_ARM",
+    "ACTIVATOR_1",
+    "ACTIVATOR_2",
+    "ACTIVATOR_3",
+    "ACTIVATOR_4",
+    "ACTIVATOR_5",
+    "ACTIVATOR_6",
+    "ACTIVATOR_7",
+    "ACTIVATOR_8",
+    "SOLO_CUE_1",
+    "SOLO_CUE_2",
+    "SOLO_CUE_3",
+    "SOLO_CUE_4",
+    "SOLO_CUE_5",
+    "SOLO_CUE_6",
+    "SOLO_CUE_7",
+    "SOLO_CUE_8",
+    "RECORD_ARM_1",
+    "RECORD_ARM_2",
+    "RECORD_ARM_3",
+    "RECORD_ARM_4",
+    "RECORD_ARM_5",
+    "RECORD_ARM_6",
+    "RECORD_ARM_7",
+    "RECORD_ARM_8",
+    "CUE_LEVEL",
+    "Slider_1",
+    "Slider_2",
+    "Slider_3",
+    "Slider_4",
+    "Slider_5",
+    "Slider_6",
+    "Slider_7",
+    "Slider_8",
+    "Slider_MASTER",
+    "TRACK_CONTROL",
+    "TRACK_CONTROL_1",
+    "TRACK_CONTROL_2",
+    "TRACK_CONTROL_3",
+    "TRACK_CONTROL_4",
+    "TRACK_CONTROL_5",
+    "TRACK_CONTROL_6",
+    "TRACK_CONTROL_7",
+    "TRACK_CONTROL_8",
+    "PAN",
+    "SEND_A",
+    "SEND_B",
+    "SEND_C",
+    "SHIFT",
+    "LEFT",
+    "UP",
+    "DOWN",
+    "RIGHT",
+    "NUDGE_-",
+    "NUDGE_+",
+    "TAP_TEMPO",
+    "DEVICE_CONTROL",
+    "DEVICE_CONTROL_1",
+    "DEVICE_CONTROL_2",
+    "DEVICE_CONTROL_3",
+    "DEVICE_CONTROL_4",
+    "DEVICE_CONTROL_5",
+    "DEVICE_CONTROL_6",
+    "DEVICE_CONTROL_7",
+    "DEVICE_CONTROL_8",
+    "CLIP_TRACK",
+    "DEVICE_IO",
+    "ARROW_LEFT",
+    "ARROW_RIGHT",
+    "DETAIL_VIEW",
+    "REC_QUANTIZATION",
+    "MIDI_OVERDUB",
+    "METRONOME",
+    "PLAY",
+    "STOP",
+    "REC",
+    "TCM"
+  ],
+  "uiBuilder" : {
+    "LEFT" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{61, 21}, {2, 6}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "↑",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [97]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "TS_2" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{5, 37}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "2",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "tog" : false,
+          "inv" : true,
+          "echo" : true,
+          "src" : "\/MIDI\/ch. 1\/ctrl [16]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "DEVICE_CONTROL_6" : {
+      "publishNormOSCQ" : true,
+      "grdFrm" : "{{62, 39}, {5, 5}}",
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "NFX" : {
+            "itemArray" : [
+              {
+                "className" : "Smooth",
+                "smoothSlider" : {
+                  "val" : 0.5
+                },
+                "enableButton" : {
+                  "val" : true
+                }
+              }
+            ]
+          },
+          "src" : "\/MIDI\/ch. 0\/ctrl [21]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ],
+      "minRange" : 0,
+      "val" : 0,
+      "label" : "6",
+      "publishNorm" : true,
+      "sendEnabled" : true,
+      "maxRange" : 1
+    },
+    "SEND_B" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{71, 14}, {5, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "SEND B",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [89]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "SOLO_CUE_4" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{15, 48}, {4, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "4",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 3\/note [49]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "ACTIVATOR_4" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{15, 44}, {4, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "4",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 3\/note [50]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "ARROW_RIGHT" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{80, 46}, {5, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "→",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [61]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "TRACK_CONTROL_6" : {
+      "publishNormOSCQ" : true,
+      "grdFrm" : "{{62, 8}, {5, 5}}",
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "NFX" : {
+            "itemArray" : [
+              {
+                "className" : "Smooth",
+                "smoothSlider" : {
+                  "val" : 0.5
+                },
+                "enableButton" : {
+                  "val" : true
+                }
+              }
+            ]
+          },
+          "src" : "\/MIDI\/ch. 0\/ctrl [53]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ],
+      "minRange" : 0,
+      "val" : 0,
+      "label" : "6",
+      "publishNorm" : true,
+      "sendEnabled" : true,
+      "maxRange" : 1
+    },
+    "REC_QUANTIZATION" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{62, 51}, {5, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "REC QUAN",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "fall" : true,
+          "src" : "\/MIDI\/ch. 0\/note [63]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "TS_3" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{10, 37}, {4, 4}}",
+      "mtxGrp" : "TRACK SELECTION",
+      "toggle" : true,
+      "val" : false,
+      "label" : "3",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "echNm2" : "Akai APC40-Akai APC40",
+          "src" : "\/MIDI\/ch. 2\/ctrl [23]",
+          "fall" : true,
+          "tog" : false,
+          "inv" : true,
+          "thr" : 1,
+          "echo" : true
+        }
+      ]
+    },
+    "DEVICE_CONTROL_7" : {
+      "publishNormOSCQ" : true,
+      "grdFrm" : "{{71, 39}, {5, 5}}",
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "NFX" : {
+            "itemArray" : [
+              {
+                "className" : "Smooth",
+                "smoothSlider" : {
+                  "val" : 0.5
+                },
+                "enableButton" : {
+                  "val" : true
+                }
+              }
+            ]
+          },
+          "src" : "\/MIDI\/ch. 0\/ctrl [22]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ],
+      "minRange" : 0,
+      "val" : 0,
+      "label" : "7",
+      "publishNorm" : true,
+      "sendEnabled" : true,
+      "maxRange" : 1
+    },
+    "SOLO_CUE_5" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{20, 48}, {4, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "5",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 4\/note [49]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "DEVICE_IO" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{62, 46}, {5, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "DEVICE I\/O",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [59]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "VVGridMode" : true,
+    "RECORD_ARM_8" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{35, 52}, {4, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "8",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "thr" : 0.1,
+          "tog" : false,
+          "rise" : false,
+          "src" : "\/MIDI\/ch. 7\/note [48]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "TS_4" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{15, 37}, {4, 4}}",
+      "mtxGrp" : "TRACK SELECTION",
+      "toggle" : true,
+      "val" : false,
+      "label" : "4",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "tog" : false,
+          "echo" : true,
+          "src" : "\/MIDI\/ch. 3\/ctrl [23]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "A1" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{0, 2}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [53]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "TRACK_CONTROL_8" : {
+      "publishNormOSCQ" : true,
+      "grdFrm" : "{{80, 8}, {5, 5}}",
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "NFX" : {
+            "itemArray" : [
+              {
+                "className" : "Smooth",
+                "smoothSlider" : {
+                  "val" : 0.5
+                },
+                "enableButton" : {
+                  "val" : true
+                }
+              }
+            ]
+          },
+          "src" : "\/MIDI\/ch. 0\/ctrl [55]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ],
+      "minRange" : 0,
+      "val" : 0,
+      "label" : "8",
+      "publishNorm" : true,
+      "sendEnabled" : true,
+      "maxRange" : 1
+    },
+    "UP" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{63, 21}, {5, 3}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "↑",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [94]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "CL_1" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{0, 29}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "CL 1",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [52]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "RECORD_ARM_5" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{20, 52}, {4, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "5",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 4\/note [48]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "A2" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{5, 2}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 1\/note [53]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "A3" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{10, 2}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 2\/note [53]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "ACTIVATOR_5" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{20, 44}, {4, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "5",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 4\/note [50]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "RECORD_ARM_2" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{5, 52}, {4, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "2",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 1\/note [48]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "TS_5" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{20, 37}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "5",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "tog" : false,
+          "echo" : true,
+          "src" : "\/MIDI\/ch. 4\/ctrl [23]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "Slider_1" : {
+      "publishNormOSCQ" : true,
+      "grdFrm" : "{{0, 56}, {4, 10}}",
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "NFX" : {
+            "itemArray" : [
+              {
+                "className" : "Smooth",
+                "smoothSlider" : {
+                  "val" : 0.5
+                },
+                "enableButton" : {
+                  "val" : true
+                }
+              }
+            ]
+          },
+          "src" : "\/MIDI\/ch. 0\/ctrl [7]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ],
+      "minRange" : 0,
+      "val" : 0,
+      "label" : "1",
+      "publishNorm" : true,
+      "sendEnabled" : true,
+      "maxRange" : 1
+    },
+    "SOLO_CUE_6" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{25, 48}, {4, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "6",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 5\/note [49]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "A4" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{15, 2}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 3\/note [53]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "DEVICE_CONTROL_8" : {
+      "publishNormOSCQ" : true,
+      "grdFrm" : "{{80, 39}, {5, 5}}",
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "NFX" : {
+            "itemArray" : [
+              {
+                "className" : "Smooth",
+                "smoothSlider" : {
+                  "val" : 0.5
+                },
+                "enableButton" : {
+                  "val" : true
+                }
+              }
+            ]
+          },
+          "src" : "\/MIDI\/ch. 0\/ctrl [23]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ],
+      "minRange" : 0,
+      "val" : 0,
+      "label" : "8",
+      "publishNorm" : true,
+      "sendEnabled" : true,
+      "maxRange" : 1
+    },
+    "Slider_2" : {
+      "publishNormOSCQ" : true,
+      "grdFrm" : "{{5, 56}, {4, 10}}",
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "NFX" : {
+            "itemArray" : [
+              {
+                "className" : "Smooth",
+                "smoothSlider" : {
+                  "val" : 0.5
+                },
+                "enableButton" : {
+                  "val" : true
+                }
+              }
+            ]
+          },
+          "src" : "\/MIDI\/ch. 1\/ctrl [7]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ],
+      "minRange" : 0,
+      "val" : 0,
+      "label" : "2",
+      "publishNorm" : true,
+      "sendEnabled" : true,
+      "maxRange" : 1
+    },
+    "A5" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{20, 2}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 4\/note [53]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "CL_2" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{5, 29}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "CL 2",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 1\/note [52]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "A6" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{25, 2}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 5\/note [53]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "PAN" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{53, 14}, {5, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [87]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "Slider_3" : {
+      "publishNormOSCQ" : true,
+      "grdFrm" : "{{10, 56}, {4, 10}}",
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "NFX" : {
+            "itemArray" : [
+              {
+                "className" : "Smooth",
+                "smoothSlider" : {
+                  "val" : 0.5
+                },
+                "enableButton" : {
+                  "val" : true
+                }
+              }
+            ]
+          },
+          "src" : "\/MIDI\/ch. 2\/ctrl [7]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ],
+      "minRange" : 0,
+      "val" : 0,
+      "label" : "3",
+      "publishNorm" : true,
+      "sendEnabled" : true,
+      "maxRange" : 1
+    },
+    "SEND_C" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{80, 14}, {5, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "SEND C",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [90]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "TS_6" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{25, 37}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "6",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "tog" : false,
+          "echo" : true,
+          "src" : "\/MIDI\/ch. 5\/ctrl [23]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "Slider_4" : {
+      "publishNormOSCQ" : true,
+      "grdFrm" : "{{15, 56}, {4, 10}}",
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "NFX" : {
+            "itemArray" : [
+              {
+                "className" : "Smooth",
+                "smoothSlider" : {
+                  "val" : 0.5
+                },
+                "enableButton" : {
+                  "val" : true
+                }
+              }
+            ]
+          },
+          "src" : "\/MIDI\/ch. 3\/ctrl [7]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ],
+      "minRange" : 0,
+      "val" : 0,
+      "label" : "4",
+      "publishNorm" : true,
+      "sendEnabled" : true,
+      "maxRange" : 1
+    },
+    "B1" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{0, 7}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [54]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "TRACK_CONTROL_1" : {
+      "publishNormOSCQ" : true,
+      "grdFrm" : "{{53, 2}, {5, 5}}",
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "NFX" : {
+            "itemArray" : [
+              {
+                "className" : "Smooth",
+                "smoothSlider" : {
+                  "val" : 0.5
+                },
+                "enableButton" : {
+                  "val" : true
+                }
+              }
+            ]
+          },
+          "src" : "\/MIDI\/ch. 0\/ctrl [48]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ],
+      "minRange" : 0,
+      "val" : 0,
+      "label" : "1",
+      "publishNorm" : true,
+      "sendEnabled" : true,
+      "maxRange" : 1
+    },
+    "B2" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{5, 7}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 1\/note [54]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "A7" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{30, 2}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 6\/note [53]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "A8" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{35, 2}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 7\/note [53]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "Slider_5" : {
+      "publishNormOSCQ" : true,
+      "grdFrm" : "{{20, 56}, {4, 10}}",
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "NFX" : {
+            "itemArray" : [
+              {
+                "className" : "Smooth",
+                "smoothSlider" : {
+                  "val" : 0.5
+                },
+                "enableButton" : {
+                  "val" : true
+                }
+              }
+            ]
+          },
+          "src" : "\/MIDI\/ch. 4\/ctrl [7]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ],
+      "minRange" : 0,
+      "val" : 0,
+      "label" : "5",
+      "publishNorm" : true,
+      "sendEnabled" : true,
+      "maxRange" : 1
+    },
+    "CL_3" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{10, 29}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "CL 3",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 2\/note [52]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "B3" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{10, 7}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 2\/note [54]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "SOLO_CUE_7" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{30, 48}, {4, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "7",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 6\/note [49]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "SL_A" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{42, 2}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "SL A",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [82]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "REC" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{75, 55}, {6, 3}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [93]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "Slider_6" : {
+      "publishNormOSCQ" : true,
+      "grdFrm" : "{{25, 56}, {4, 10}}",
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "NFX" : {
+            "itemArray" : [
+              {
+                "className" : "Smooth",
+                "smoothSlider" : {
+                  "val" : 0.5
+                },
+                "enableButton" : {
+                  "val" : true
+                }
+              }
+            ]
+          },
+          "src" : "\/MIDI\/ch. 5\/ctrl [7]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ],
+      "minRange" : 0,
+      "val" : 0,
+      "label" : "6",
+      "publishNorm" : true,
+      "sendEnabled" : true,
+      "maxRange" : 1
+    },
+    "B4" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{15, 7}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 3\/note [54]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "TS_7" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{30, 37}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "7",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "tog" : false,
+          "echo" : true,
+          "src" : "\/MIDI\/ch. 6\/ctrl [23]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "STOP" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{66, 55}, {6, 3}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [92]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "Slider_7" : {
+      "publishNormOSCQ" : true,
+      "grdFrm" : "{{30, 56}, {4, 10}}",
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "NFX" : {
+            "itemArray" : [
+              {
+                "className" : "Smooth",
+                "smoothSlider" : {
+                  "val" : 0.5
+                },
+                "enableButton" : {
+                  "val" : true
+                }
+              }
+            ]
+          },
+          "src" : "\/MIDI\/ch. 6\/ctrl [7]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ],
+      "minRange" : 0,
+      "val" : 0,
+      "label" : "7",
+      "publishNorm" : true,
+      "sendEnabled" : true,
+      "maxRange" : 1
+    },
+    "B5" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{20, 7}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 4\/note [54]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "ACTIVATOR_6" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{25, 44}, {4, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "6",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 5\/note [50]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "SOLO_CUE_8" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{35, 48}, {4, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "8",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 7\/note [49]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "CL_4" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{15, 29}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "CL 4",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 3\/note [52]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "B6" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{25, 7}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 5\/note [54]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "Slider_8" : {
+      "publishNormOSCQ" : true,
+      "grdFrm" : "{{35, 56}, {4, 10}}",
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "NFX" : {
+            "itemArray" : [
+              {
+                "className" : "Smooth",
+                "smoothSlider" : {
+                  "val" : 0.5
+                },
+                "enableButton" : {
+                  "val" : true
+                }
+              }
+            ]
+          },
+          "src" : "\/MIDI\/ch. 7\/ctrl [7]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ],
+      "minRange" : 0,
+      "val" : 0,
+      "label" : "8",
+      "publishNorm" : true,
+      "sendEnabled" : true,
+      "maxRange" : 1
+    },
+    "SL_B" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{42, 7}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "SL B",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [83]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "C1" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{0, 12}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [55]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "B7" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{30, 7}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 6\/note [54]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "CLIP_LAUNCH" : {
+      "grdFrm" : "{{14, 0}, {14, 1}}",
+      "sendEnabled" : true,
+      "toggle" : false,
+      "mtxFlg" : false,
+      "mtxGrp" : "Button Group"
+    },
+    "TRACK_CONTROL_3" : {
+      "publishNormOSCQ" : true,
+      "grdFrm" : "{{71, 2}, {5, 5}}",
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "NFX" : {
+            "itemArray" : [
+              {
+                "className" : "Smooth",
+                "smoothSlider" : {
+                  "val" : 0.5
+                },
+                "enableButton" : {
+                  "val" : true
+                }
+              }
+            ]
+          },
+          "src" : "\/MIDI\/ch. 0\/ctrl [50]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ],
+      "minRange" : 0,
+      "val" : 0,
+      "label" : "3",
+      "publishNorm" : true,
+      "sendEnabled" : true,
+      "maxRange" : 1
+    },
+    "TS_8" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{35, 37}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "8",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "tog" : false,
+          "echo" : true,
+          "src" : "\/MIDI\/ch. 7\/ctrl [23]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "C2" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{5, 12}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 1\/note [55]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "SHIFT" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{53, 25}, {5, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [98]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "B8" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{35, 7}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 7\/note [54]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "MIDI_OVERDUB" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{71, 51}, {5, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "MIDI OVER",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "fall" : true,
+          "src" : "\/MIDI\/ch. 0\/note [64]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "C3" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{10, 12}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 2\/note [55]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "CL_5" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{20, 29}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "CL 5",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 4\/note [52]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "TAP_TEMPO" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{76, 19}, {6, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "TAP TEMPO",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [99]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "ARROW_LEFT" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{71, 46}, {5, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "←",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [60]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "C4" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{15, 12}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 3\/note [55]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "SL_C" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{42, 12}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "SL C",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [84]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "SOLO_CUE" : {
+      "grdFrm" : "{{0, 47}, {6, 1}}",
+      "label" : "SOLO \/ CUE",
+      "sendEnabled" : true,
+      "toggle" : false,
+      "mtxFlg" : false,
+      "mtxGrp" : "Button Group"
+    },
+    "NUDGE_+" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{80, 25}, {5, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "NUDGE +",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [100]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "C5" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{20, 12}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 4\/note [55]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "DEVICE_CONTROL" : {
+      "mtxGrp" : "Button Group",
+      "grdFrm" : "{{62, 31}, {14, 1}}",
+      "toggle" : true,
+      "mtxFlg" : false,
+      "val" : false,
+      "label" : "DEVICE CONTROL",
+      "sendEnabled" : true
+    },
+    "DETAIL_VIEW" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{53, 51}, {5, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "DETAIL VIEW",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "fall" : true,
+          "src" : "\/MIDI\/ch. 0\/note [62]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "DEVICE_CONTROL_1" : {
+      "publishNormOSCQ" : true,
+      "grdFrm" : "{{53, 33}, {5, 5}}",
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "NFX" : {
+            "itemArray" : [
+              {
+                "className" : "Smooth",
+                "smoothSlider" : {
+                  "val" : 0.5
+                },
+                "enableButton" : {
+                  "val" : true
+                }
+              }
+            ]
+          },
+          "src" : "\/MIDI\/ch. 0\/ctrl [16]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ],
+      "minRange" : 0,
+      "val" : 0,
+      "label" : "1",
+      "publishNorm" : true,
+      "sendEnabled" : true,
+      "maxRange" : 1
+    },
+    "RECORD_ARM_6" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{25, 52}, {4, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "6",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 5\/note [48]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "C6" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{25, 12}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 5\/note [55]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "TRACK_CONTROL_5" : {
+      "publishNormOSCQ" : true,
+      "grdFrm" : "{{53, 8}, {5, 5}}",
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "NFX" : {
+            "itemArray" : [
+              {
+                "className" : "Smooth",
+                "smoothSlider" : {
+                  "val" : 0.5
+                },
+                "enableButton" : {
+                  "val" : true
+                }
+              }
+            ]
+          },
+          "src" : "\/MIDI\/ch. 0\/ctrl [52]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ],
+      "minRange" : 0,
+      "val" : 0,
+      "label" : "5",
+      "publishNorm" : true,
+      "sendEnabled" : true,
+      "maxRange" : 1
+    },
+    "CL_6" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{25, 29}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "CL 6",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 5\/note [52]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "NUDGE_-" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{73, 25}, {5, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "NUDGE -",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [101]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "C7" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{30, 12}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 6\/note [55]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "D1" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{0, 17}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [56]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "RECORD_ARM_3" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{10, 52}, {4, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "3",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 2\/note [48]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "SL_D" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{42, 17}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "SL D",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [85]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "C8" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{35, 12}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 7\/note [55]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "ACTIVATOR_7" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{30, 44}, {4, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "7",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 6\/note [50]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "D2" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{5, 17}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 1\/note [56]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "ACTIVATOR_1" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{0, 44}, {4, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "1",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [50]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "STOP_ALL" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{42, 29}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "STOP ALL",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [81]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "D3" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{10, 17}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 2\/note [56]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "RIGHT" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{68, 21}, {2, 6}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "↓",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [96]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "VVGridSize" : "{85, 68}",
+    "CL_7" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{30, 29}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "CL 7",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 6\/note [52]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "D4" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{15, 17}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 3\/note [56]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "SL_E" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{42, 22}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "SL E",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [86]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "D5" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{20, 17}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 4\/note [56]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "DEVICE_CONTROL_2" : {
+      "publishNormOSCQ" : true,
+      "grdFrm" : "{{62, 33}, {5, 5}}",
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "NFX" : {
+            "itemArray" : [
+              {
+                "className" : "Smooth",
+                "smoothSlider" : {
+                  "val" : 0.5
+                },
+                "enableButton" : {
+                  "val" : true
+                }
+              }
+            ]
+          },
+          "src" : "\/MIDI\/ch. 0\/ctrl [17]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ],
+      "minRange" : 0,
+      "val" : 0,
+      "label" : "2",
+      "publishNorm" : true,
+      "sendEnabled" : true,
+      "maxRange" : 1
+    },
+    "TRACK_CONTROL_7" : {
+      "publishNormOSCQ" : true,
+      "grdFrm" : "{{71, 8}, {5, 5}}",
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "NFX" : {
+            "itemArray" : [
+              {
+                "className" : "Smooth",
+                "smoothSlider" : {
+                  "val" : 0.5
+                },
+                "enableButton" : {
+                  "val" : true
+                }
+              }
+            ]
+          },
+          "src" : "\/MIDI\/ch. 0\/ctrl [54]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ],
+      "minRange" : 0,
+      "val" : 0,
+      "label" : "7",
+      "publishNorm" : true,
+      "sendEnabled" : true,
+      "maxRange" : 1
+    },
+    "D6" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{25, 17}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 5\/note [56]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "E1" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{0, 22}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [57]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "D7" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{30, 17}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 6\/note [56]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "CL_8" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{35, 29}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "CL 8",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 7\/note [52]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "TRACK_CONTROL" : {
+      "grdFrm" : "{{62, 0}, {14, 1}}",
+      "label" : "TRACK CONTROL",
+      "sendEnabled" : true,
+      "toggle" : false,
+      "mtxFlg" : false,
+      "mtxGrp" : "Button Group"
+    },
+    "D8" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{35, 17}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 7\/note [56]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "E2" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{5, 22}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 1\/note [57]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "E3" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{10, 22}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 2\/note [57]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "TRACK_SELECTION" : {
+      "grdFrm" : "{{14, 35}, {14, 1}}",
+      "label" : "TRACK SELECTION",
+      "sendEnabled" : true,
+      "toggle" : false,
+      "mtxFlg" : false,
+      "mtxGrp" : "Button Group"
+    },
+    "ACTIVATOR_8" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{35, 44}, {4, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "8",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 7\/note [50]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "E4" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{15, 22}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 3\/note [57]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "DEVICE_CONTROL_3" : {
+      "publishNormOSCQ" : true,
+      "grdFrm" : "{{71, 33}, {5, 5}}",
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "NFX" : {
+            "itemArray" : [
+              {
+                "className" : "Smooth",
+                "smoothSlider" : {
+                  "val" : 0.5
+                },
+                "enableButton" : {
+                  "val" : true
+                }
+              }
+            ]
+          },
+          "src" : "\/MIDI\/ch. 0\/ctrl [18]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ],
+      "minRange" : 0,
+      "val" : 0,
+      "label" : "3",
+      "publishNorm" : true,
+      "sendEnabled" : true,
+      "maxRange" : 1
+    },
+    "ACTIVATOR_2" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{5, 44}, {4, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "2",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 1\/note [50]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "E5" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{20, 22}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 4\/note [57]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "E6" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{25, 22}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 5\/note [57]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "E7" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{30, 22}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 6\/note [57]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "SEND_A" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{62, 14}, {5, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "SEND A",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [88]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "CLIP_TRACK" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{53, 46}, {5, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "CLIP\/ TRACK",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [58]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "E8" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{35, 22}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 7\/note [57]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "SOLO_CUE_1" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{0, 48}, {4, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "1",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [49]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "DEVICE_CONTROL_4" : {
+      "publishNormOSCQ" : true,
+      "grdFrm" : "{{80, 33}, {5, 5}}",
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "NFX" : {
+            "itemArray" : [
+              {
+                "className" : "Smooth",
+                "smoothSlider" : {
+                  "val" : 0.5
+                },
+                "enableButton" : {
+                  "val" : true
+                }
+              }
+            ]
+          },
+          "src" : "\/MIDI\/ch. 0\/ctrl [19]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ],
+      "minRange" : 0,
+      "val" : 0,
+      "label" : "4",
+      "publishNorm" : true,
+      "sendEnabled" : true,
+      "maxRange" : 1
+    },
+    "RECORD_ARM_7" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{30, 52}, {4, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "7",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 6\/note [48]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "TCM" : {
+      "publishNormOSCQ" : true,
+      "grdFrm" : "{{58, 61}, {22, 5}}",
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "NFX" : {
+            "itemArray" : [
+              {
+                "className" : "Smooth",
+                "smoothSlider" : {
+                  "val" : 0.5
+                },
+                "enableButton" : {
+                  "val" : true
+                }
+              }
+            ]
+          },
+          "src" : "\/MIDI\/ch. 0\/ctrl [15]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ],
+      "minRange" : 0,
+      "val" : 0,
+      "label" : "TWO CHANNEL MIXER",
+      "publishNorm" : true,
+      "sendEnabled" : true,
+      "maxRange" : 1
+    },
+    "DOWN" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{63, 24}, {5, 3}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "↓",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [95]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "CUE_LEVEL" : {
+      "publishNormOSCQ" : true,
+      "grdFrm" : "{{41, 46}, {6, 6}}",
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "endF" : true,
+          "endM" : 6,
+          "NFX" : {
+            "itemArray" : [
+              {
+                "className" : "Smooth",
+                "smoothSlider" : {
+                  "val" : 0.5
+                },
+                "enableButton" : {
+                  "val" : true
+                }
+              }
+            ]
+          },
+          "src" : "\/MIDI\/ch. 0\/ctrl [47]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ],
+      "minRange" : 0,
+      "val" : 0.48,
+      "label" : "CUE LEVEL",
+      "publishNorm" : true,
+      "sendEnabled" : true,
+      "maxRange" : 1
+    },
+    "ACTIVATOR" : {
+      "grdFrm" : "{{0, 43}, {6, 1}}",
+      "label" : "ACTIVATOR",
+      "sendEnabled" : true,
+      "toggle" : false,
+      "mtxFlg" : false,
+      "mtxGrp" : "Button Group"
+    },
+    "TRACK_CONTROL_2" : {
+      "publishNormOSCQ" : true,
+      "grdFrm" : "{{62, 2}, {5, 5}}",
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "NFX" : {
+            "itemArray" : [
+              {
+                "className" : "Smooth",
+                "smoothSlider" : {
+                  "val" : 0.5
+                },
+                "enableButton" : {
+                  "val" : true
+                }
+              }
+            ]
+          },
+          "src" : "\/MIDI\/ch. 0\/ctrl [49]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ],
+      "minRange" : 0,
+      "val" : 0,
+      "label" : "2",
+      "publishNorm" : true,
+      "sendEnabled" : true,
+      "maxRange" : 1
+    },
+    "METRONOME" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{80, 51}, {5, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "METRONOME",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "fall" : true,
+          "src" : "\/MIDI\/ch. 0\/note [65]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "RECORD_ARM_4" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{15, 52}, {4, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "4",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 3\/note [48]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "Slider_MASTER" : {
+      "publishNormOSCQ" : true,
+      "grdFrm" : "{{42, 56}, {4, 10}}",
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "NFX" : {
+            "itemArray" : [
+              {
+                "className" : "Smooth",
+                "smoothSlider" : {
+                  "val" : 0.5
+                },
+                "enableButton" : {
+                  "val" : true
+                }
+              }
+            ]
+          },
+          "src" : "\/MIDI\/ch. 0\/ctrl [14]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ],
+      "minRange" : 0,
+      "val" : 0,
+      "label" : "MASTER",
+      "publishNorm" : true,
+      "sendEnabled" : true,
+      "maxRange" : 1
+    },
+    "SOLO_CUE_2" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{5, 48}, {4, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "2",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 1\/note [49]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "PLAY" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{57, 55}, {6, 3}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [91]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "ACTIVATOR_3" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{10, 44}, {4, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "3",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 2\/note [50]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "RECORD_ARM_1" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{0, 52}, {4, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "1",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 0\/note [48]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "RECORD_ARM" : {
+      "grdFrm" : "{{0, 51}, {6, 1}}",
+      "label" : "RECORD ARM",
+      "sendEnabled" : true,
+      "toggle" : false,
+      "mtxFlg" : false,
+      "mtxGrp" : "Button Group"
+    },
+    "MASTER" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{42, 37}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "src" : "\/MIDI\/ch. 8\/ctrl [23]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "DEVICE_CONTROL_5" : {
+      "publishNormOSCQ" : true,
+      "grdFrm" : "{{53, 39}, {5, 5}}",
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "NFX" : {
+            "itemArray" : [
+              {
+                "className" : "Smooth",
+                "smoothSlider" : {
+                  "val" : 0.5
+                },
+                "enableButton" : {
+                  "val" : true
+                }
+              }
+            ]
+          },
+          "src" : "\/MIDI\/ch. 0\/ctrl [20]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ],
+      "minRange" : 0,
+      "val" : 0,
+      "label" : "5",
+      "publishNorm" : true,
+      "sendEnabled" : true,
+      "maxRange" : 1
+    },
+    "TS_1" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{0, 37}, {4, 4}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "1",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "ltch" : false,
+          "tog" : false,
+          "inv" : true,
+          "echo" : true,
+          "src" : "\/MIDI\/ch. 0\/ctrl [16]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    },
+    "TRACK_CONTROL_4" : {
+      "publishNormOSCQ" : true,
+      "grdFrm" : "{{80, 2}, {5, 5}}",
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "NFX" : {
+            "itemArray" : [
+              {
+                "className" : "Smooth",
+                "smoothSlider" : {
+                  "val" : 0.5
+                },
+                "enableButton" : {
+                  "val" : true
+                }
+              }
+            ]
+          },
+          "src" : "\/MIDI\/ch. 0\/ctrl [51]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ],
+      "minRange" : 0,
+      "val" : 0,
+      "label" : "4",
+      "publishNorm" : true,
+      "sendEnabled" : true,
+      "maxRange" : 1
+    },
+    "SOLO_CUE_3" : {
+      "mtxFlg" : false,
+      "grdFrm" : "{{10, 48}, {4, 2}}",
+      "mtxGrp" : "Button Group",
+      "toggle" : true,
+      "val" : false,
+      "label" : "3",
+      "sendEnabled" : true,
+      "rcvrs" : [
+        {
+          "wantsEnbl" : true,
+          "tog" : false,
+          "src" : "\/MIDI\/ch. 2\/note [49]",
+          "echNm2" : "Akai APC40-Akai APC40"
+        }
+      ]
+    }
+  }
+}
